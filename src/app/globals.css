@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: var(--font-iranSansX);
+}
+
+:lang(en) {
+  font-family: var(--font-figtree);
+}
